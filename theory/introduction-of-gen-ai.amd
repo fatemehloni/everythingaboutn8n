@@ -105,6 +105,10 @@ A well-structured prompt usually includes:
 ### Example
 
 You are a technical documentation writer.
+Summarize the following text in 5 bullet points.
+Use simple language and avoid marketing terms.
+
+You are a technical documentation writer.
 Summarise the following text in 5 bullet points.
 Use simple language and avoid marketing terms.
 
