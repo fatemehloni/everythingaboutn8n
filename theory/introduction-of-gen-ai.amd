@@ -1,0 +1,110 @@
+# Introduction to Generative AI
+
+## What is Generative AI?
+
+Generative AI refers to AI systems that can create new content instead of only analysing existing data.
+This content can include text, code, images, audio, or structured information.
+
+Rather than following predefined rules, Generative AI learns patterns from large datasets and generates outputs based on context.
+In modern software, it acts as a flexible intelligence layer embedded inside products and workflows.
+
+---
+
+## The GenAI Toolkit
+
+Generative AI is best understood as a set of capabilities that can be applied to different use cases.
+
+### Writing Code
+Generating, completing, refactoring, and explaining code.
+
+Tools:
+- GitHub Copilot
+- ChatGPT
+
+---
+
+### Resume Analysis
+Reviewing resumes, extracting skills, and matching profiles to job descriptions.
+
+Tools:
+- ChatGPT
+- Rezi
+
+---
+
+### Creating Podcasts
+Generating scripts, summaries, and synthetic voices for audio content.
+
+Tools:
+- Descript
+- ElevenLabs
+
+---
+
+### Smart Search
+Enabling semantic and conversational search instead of keyword-based search.
+
+Tools:
+- Perplexity AI
+- Elastic
+
+---
+
+### Table and Data Extraction
+Extracting structured data from unstructured sources like PDFs or emails.
+
+Tools:
+- ChatGPT
+- Amazon Textract
+
+---
+
+### Content Creation
+Writing articles, summaries, and marketing content.
+
+Tools:
+- Jasper
+- Notion AI
+
+---
+
+## What is an LLM?
+
+A Large Language Model (LLM) is a type of Generative AI trained on very large amounts of text data.
+Its main task is to predict the next token based on context.
+
+Despite this simple objective, LLMs can perform complex tasks such as reasoning, summarisation, translation, and code generation.
+They are the core engine behind most modern Generative AI applications.
+
+---
+
+## Ways to Work with LLMs
+
+### Fine-tuning
+Training a base model further on domain-specific data to adapt it to a specific use case.
+
+### Prompt Engineering
+Designing clear and structured instructions to guide the model’s behaviour and output.
+
+### Retrieval-Augmented Generation (RAG)
+Connecting LLMs to external knowledge sources so responses are grounded in real data.
+
+### Agents
+LLMs that can plan, take actions, and use tools across multiple steps to achieve a goal.
+
+---
+
+## Anatomy of a Perfect Prompt
+
+A well-structured prompt usually includes:
+- A clear role
+- A specific task
+- Relevant context or constraints
+- A defined output format
+
+### Example
+
+You are a technical documentation writer.
+Summarise the following text in 5 bullet points.
+Use simple language and avoid marketing terms.
+
